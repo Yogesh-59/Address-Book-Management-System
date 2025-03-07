@@ -1,0 +1,46 @@
+.container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .logo {
+    width: 50px;
+    vertical-align: middle;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  input {
+    padding: 8px;
+    width: 60%;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: lightgray;
+  }
+  
